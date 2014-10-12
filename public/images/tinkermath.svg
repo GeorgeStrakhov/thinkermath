@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="548.59375"
+   height="639.13062"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="tinkermath.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-53.053703"
+     inkscape:cy="177.84944"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1355"
+     inkscape:window-height="712"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-top="20"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.750366,-251.90625)">
+    <path
+       style="fill:#d45500;stroke:none"
+       d="m 372.06287,271.90625 c -140.43812,0 -254.3125,113.84312 -254.3125,254.28125 0,133.69483 103.17764,243.28343 234.25,253.5 l 0,-92.28125 -31.53125,0 0,-15.28125 31.53125,0 0,-12.625 -31.53125,0 0,-15.28125 31.53125,0 0,-98.125 -48.25,0 0,30.0625 -15.28125,0 0,-30.0625 -51.59375,0 0,-40.03125 51.59375,0 0,-33.09375 15.28125,0 0,33.09375 136.59375,0 0,-33.09375 15.28125,0 0,33.09375 51.59375,0 0,40.03125 -51.59375,0 0,30.0625 -15.28125,0 0,-30.0625 -48.25,0 0,98.125 31.53125,0 0,15.28125 -31.53125,0 0,12.625 31.53125,0 0,15.28125 -31.53125,0 0,92.28125 c 131.07237,-10.21657 234.25,-119.80517 234.25,-253.5 0,-140.43813 -113.84312,-254.28125 -254.28125,-254.28125 z"
+       id="path3777"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/gs/dev/tinkermath/public/images/logo_500.png"
+       inkscape:export-xdpi="88.480003"
+       inkscape:export-ydpi="88.480003" />
+    <text
+       xml:space="preserve"
+       style="font-size:71.77131653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="164.09659"
+       y="869.81677"
+       id="text3892"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3894"
+         x="164.09659"
+         y="869.81677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:American Typewriter;-inkscape-font-specification:American Typewriter">TinkerMath</tspan></text>
+  </g>
+</svg>

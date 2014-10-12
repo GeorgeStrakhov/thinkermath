@@ -1,0 +1,28 @@
+<template name="about">
+
+<div class="row margin-top-2">
+  <div class="small-8 small-push-2 medium-4 medium-push-4 columns text-center">
+    <img src="images/logo_500_white.png"/>
+  </div>
+</div>
+
+<div class="row margin-top-2">
+  <div class="small-10 small-push-1 columns panel panel-transparent allContent">
+    <h1 class="text-center margin-top-2">TinkerMath</h1>
+    <h4 class="text-center">experimental math for kids of all ages</h4>
+    {{#markdown}}{{>aboutContentMd}}{{/markdown}}
+
+    <h2>Sounds interesting?</h2>
+    <p class="text-center">We are building TinkerMath right now. Get in touch if you want to help.</p>
+    <div class="text-center margin-top-2">
+      <a class="button success" href="mailto:george.strakhov@gmail.com">SAY HI</a>
+    </div>
+
+    <div class="footer">
+      <p class="text-center">&copy; 2014 | <a href="http://theymade.me">George Strakhov</a></p>
+    </div>
+
+  </div>
+</div>
+
+</template>

@@ -1,0 +1,49 @@
+/* CSS declarations go here */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300);
+
+#bgFixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+hr {
+  border: 1px dotted #999;
+}
+
+.panel-transparent {
+  background-color: rgba(255,255,255, 0.8);
+  border: none;
+}
+
+h4, p, li {
+  color: #555 !important;
+}
+
+body, h1, h2, h4, p, li {
+  font-family: 'Roboto Slab', serif !important;
+  line-height: 180% !important;
+}
+
+a {
+  font-family: 'Roboto Slab', serif !important;
+}
+
+h2, .footer {
+  text-align: center;
+  margin-bottom: 20px !important;
+  padding-top: 30px;
+  border-top: 1px dotted #999;
+  margin-top: 30px;
+}
+
+/* utilities */
+.margin-top-1 {
+  margin-top: 1em;
+}
+.margin-top-2 {
+  margin-top: 2em;
+}
